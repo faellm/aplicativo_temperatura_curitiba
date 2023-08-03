@@ -37,6 +37,3 @@ Aproveite o aplicativo e sinta-se à vontade para fazer melhorias e personaliza�
 
 Se tiver alguma dúvida ou precisar de suporte, sinta-se à vontade para entrar em contato.
 
-
-
-LinkedIn: [https://www.linkedin.com/in/rafael-lara-668402157/] (opcional)
