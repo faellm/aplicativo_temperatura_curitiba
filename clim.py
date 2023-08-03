@@ -28,7 +28,7 @@ class WeatherApp(App):
         return layout
 
     def get_weather(self, instance):
-        api_key = '806b0144b65e3f5f55af94246119d666'
+        api_key = ''
         city_name = 'Curitiba'  # Substitua 'Cidade' pelo nome da cidade desejada.
 
         base_url = f"http://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={api_key}"
